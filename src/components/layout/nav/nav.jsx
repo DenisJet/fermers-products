@@ -18,7 +18,7 @@ const links = [
     to: AppRoute.BUY,
     item: (
       <Button minWidth={260} key={AppRoute.BUY} link={AppRoute.BUY}>
-        Купить билет
+        Купить
       </Button>
     )
   }
